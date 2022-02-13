@@ -17,7 +17,12 @@
 第三、OSED 
 
     主要是针对windows的攻击课程，包括BoF, Reserver Engineering。具体不知道
-
+	
+	
+- OSCP  PEN-200  <---------- Got 
+- OSEP	PEN-300  <---------- Processing 
+- OSWE	WEB-300
+- OSED	EXP-301
 
 # OSEP 目录
 
